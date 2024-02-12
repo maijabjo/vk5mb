@@ -1,0 +1,10 @@
+div#container{
+    height: 20vh;
+    margin-left: 100em;
+}
+
+div#dice{
+    margin: 3em;
+    height: 50vh;
+
+}
